@@ -1,1 +1,1 @@
-Hello, welcome to vscode!
+Hi, welcome to vscode!
